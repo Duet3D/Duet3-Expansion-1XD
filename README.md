@@ -1,7 +1,7 @@
 # Duet 3 Expansion 1XD
 Hardware information for the Duet 3 Expansion 1XD. This is a CAN-FD connected expansion board for the [Duet 3 Mainboard](https://www.duet3d.com/Duet3Mainboard6HC) that allows connection for a single external stepper driver and associated peripherals.
 
-![Image of Duet 3 Expansion 1XD](https://d17kynu4zpq5hy.cloudfront.net/igi/duet3d/fZnygOGS6U4GAmTp.medium)
+![Image of Duet 3 Expansion 1XD](https://d17kynu4zpq5hy.cloudfront.net/igi/duet3d/PnFrPYlMO4OINHjZ.medium)
 
 Product page is here: https://www.duet3d.com/Duet3Expansion1XD (Note its is still in prototype and not yet generally available)
 
